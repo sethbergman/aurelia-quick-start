@@ -1,1 +1,0 @@
-# aurelia-quick-start
